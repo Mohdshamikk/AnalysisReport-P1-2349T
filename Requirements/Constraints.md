@@ -7,3 +7,4 @@ CO-5:External video meeting platforms shall be accessed via stored links without
 CO-6:The project shall follow a Waterfall development approach with each phase completed and reviewed before progression.
 CO-7:The project shall be delivered within eleven months starting from February 2026.
 CO-8:Passwords must meet security standards, including a minimum 8 characters with upper/lowercase, numbers, and special characters 
+
